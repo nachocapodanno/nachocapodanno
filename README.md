@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nachocapodanno
-- 👀 I’m interested in coding, learning and creating fantastic digital products.
+- 👀 I’m interested in coding, improving and creating fantastic digital products.
 - 📫 How to reach me via email: icapodanno@gmail.com
 
 <!---
